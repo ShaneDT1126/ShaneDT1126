@@ -1,7 +1,4 @@
 <h1 align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com/?
-    font=
-    ;"/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?
       font=Architects+Daughter&pause=1000&random=false&width=435&
