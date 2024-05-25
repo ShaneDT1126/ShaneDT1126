@@ -11,9 +11,13 @@
 
 <div align = "center">
   🌱 Currently studying **BS in Computer Science** at Cebu Institute of Technology - University 
+  
   🔭 I’m currently working on ...
+  
   💬 Ask me about ...
+  
   ⚡ Fun fact: ...
+  
 </div>
 
 <div align = "center">
