@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneDT1126&layout=compact)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShaneDT1126&repo=CSIT-340-Final-Project)](https://github.com/ShaneDT1126/CSIT-340-Final-Project)
 <!--
 **ShaneDT1126/ShaneDT1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
