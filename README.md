@@ -3,6 +3,20 @@
     <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=35&pause=500&center=true&random=false&width=435&lines=Hi+There!;+I'm+Shane!" alt="Typing SVG" /></a>
 </h1>
 
+<h3 align = "center">
+  An aspiring software engineer
+</h3>
+
+<div align = "center">
+  <a href="mailto:shanedelatorre2412@gmail.com">
+    <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/jun-cyric-shane-dela-torre-0b1041268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+    
+    
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneDT1126&layout=compact)
 <!--
