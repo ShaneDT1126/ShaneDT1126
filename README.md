@@ -10,14 +10,19 @@
 <br/>
 
 <div align = "center">
+  🌱 Currently studying **BS in Computer Science** at Cebu Institute of Technology - University 
+  🔭 I’m currently working on ...
+  💬 Ask me about ...
+  ⚡ Fun fact: ...
+</div>
+
+<div align = "center">
   <a href="mailto:shanedelatorre2412@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/jun-cyric-shane-dela-torre-0b1041268/">
     <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-    
-    
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneDT1126&layout=compact)
