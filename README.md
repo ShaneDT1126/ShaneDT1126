@@ -40,10 +40,10 @@
 <br/>
 
 <div>
-  <a href="https://skillsicons.dev">
-    <img src="https://skillsicons.dev/icons?i=java,py,c,cpp,js,html,css,cs"/>
-    <img src="https://skillsicons.dev/icons?i=spring,django,dotnet,tensorflow,react,bootstrap"/>
-    <img src="https://skillsicons.dev/icons?i=github,git,figma,vscode,idea,pycharm,webstorm,mysql,mui,npm,postman"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,cs"/>
+    <img src="https://skillicons.dev/icons?i=spring,django,dotnet,tensorflow,react,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=github,git,figma,vscode,idea,pycharm,webstorm,mysql,mui,npm,postman"/>
   </a>
 </div>
 
