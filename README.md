@@ -60,10 +60,10 @@
 </h2>
 
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ShaneDT1126/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneDT1126&theme=vue-dark&hide_progress=true"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ShaneDT1126/convoychat">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShaneDT1126&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github"/>
 </a>
 
