@@ -7,6 +7,8 @@
   An aspiring software engineer
 </h3>
 
+<br/>
+
 <div align = "center">
   <a href="mailto:shanedelatorre2412@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
