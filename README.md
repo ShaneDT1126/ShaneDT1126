@@ -14,7 +14,7 @@
   🌱 Currently studying **BS in Computer Science** at Cebu Institute of Technology - University 
 
   
-  🔭 I’m currently learning **Vue**, **Supabase**, **AWS**
+  🔭 I’m currently learning **Vue**, **TypeScript**, **AWS**
   
   💬 Ask me about ...
   
