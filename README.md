@@ -60,16 +60,14 @@
 </h2>
 
 <br/>
-<a href="https://github.com/ShaneDT1126/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneDT1126&theme=vue-dark&hide_progress=true"/>
-</a>
-<a href="https://github.com/ShaneDT1126/convoychat">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShaneDT1126&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github"/>
-</a>
+<div align="center">
+  <img width=390 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneDT1126&theme=vue-dark&hide_progress=true"/>
+  <img width=390 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShaneDT1126&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github"/>
+  <br/>
+  <img width=325 align=center src="https://streak-stats.demolab.com/?user=ShaneDT1126&count_private=true&theme=vue-dark&border_radius=10" alt="streak stats"/>
+</div>
 
-<br/>
 
-<img width=390 src="https://streak-stats.demolab.com/?user=ShaneDT1126&count_private=true&theme=vue-dark&border_radius=10" alt="streak stats"/>
 
 <!--
 **ShaneDT1126/ShaneDT1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
