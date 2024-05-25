@@ -42,7 +42,9 @@
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,cs"/>
+    <br/>
     <img src="https://skillicons.dev/icons?i=spring,django,dotnet,tensorflow,react,bootstrap"/>
+    <br/>
     <img src="https://skillicons.dev/icons?i=github,git,figma,vscode,idea,pycharm,webstorm,mysql,mui,npm,postman"/>
   </a>
 </div>
