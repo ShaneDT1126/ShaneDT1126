@@ -62,7 +62,7 @@
 <br/>
 
 <div align="center">
-  <img width=390 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneDT1126&theme=vue-dark&hide_progress=true"/>
+  <img width=390 height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneDT1126&theme=vue-dark&hide_progress=true"/>
   <img width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=ShaneDT1126&show_icons=true&theme=vue-dark"/>
   <br/>
   <img width=390 src="https://streak-stats.demolab.com/?user=ShaneDT1126&count_private=true&theme=vue-dark&border_radius=10" alt="streak stats"/>
