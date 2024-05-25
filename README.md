@@ -1,4 +1,4 @@
-## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ShaneDT1126=anuraghazra&layout=compact)
 
 <!--
 **ShaneDT1126/ShaneDT1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
