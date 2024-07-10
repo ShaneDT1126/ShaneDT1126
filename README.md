@@ -16,9 +16,10 @@
   
   🔭 I’m currently learning **Vue**, **TypeScript**, **AWS**
   
+  ⚡ Fun fact: North Korea and Cuba are the only places you can't buy Coca-Cola.
+  
   💬 Ask me about ...
   
-  ⚡ Fun fact: ...
   
 </div>
 
