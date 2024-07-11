@@ -12,11 +12,10 @@
 <div align = "center">
   
   🌱 Currently studying **BS in Computer Science** at Cebu Institute of Technology - University 
-
-  
-  🔭 I’m currently learning **Vue**, **TypeScript**, **AWS**
   
   ⚡ Fun fact: North Korea and Cuba are the only places you can't buy Coca-Cola.
+  
+  🔭 I’m currently learning **Vue**, **TypeScript**, **AWS**
   
   💬 Ask me about ...
   
