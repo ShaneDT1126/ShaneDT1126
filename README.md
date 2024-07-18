@@ -17,7 +17,7 @@
   
   🔭 I’m currently learning **Vue**, **TypeScript**, **Microsoft Azure**
   
-  💬 Ask me about ...
+  💬 Ask me about Symph.co
   
   
 </div>
