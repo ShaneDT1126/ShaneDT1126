@@ -15,7 +15,7 @@
   
   ⚡ Fun fact: North Korea and Cuba are the only places you can't buy Coca-Cola.
   
-  🔭 I’m currently learning **Vue**, **TypeScript**, **Microsoft Azure**
+  🔭 I’m currently learning **C#**, **TypeScript**, **Microsoft Azure**
   
   💬 Ask me about Symph.co
   
