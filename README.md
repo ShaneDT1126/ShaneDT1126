@@ -7,9 +7,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;BS Computer Science Graduate at Cebu Institute of Technology - University.\
-🌱 &nbsp;I’m currently learning ASP.NET, Angular, Microsoft Azure.\
+🌱 &nbsp;I’m currently learning ASP.NET Core, Angular, Microsoft Azure.\
 💬 &nbsp;Ask me about anything.\
-⚡ &nbsp;Fun fact North Korea and Cuba are the only places you can't buy Coca-Cola.
 
 
 <br>
