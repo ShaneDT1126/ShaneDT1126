@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;BS Computer Science Graduate at Cebu Institute of Technology - University.\
-🌱 &nbsp;I’m currently learning ASP.NET Core, Angular, Microsoft Azure.\
+🌱 &nbsp;I’m currently improving my skills in Spring, Vue, and Aws.\
 💬 &nbsp;Ask me about anything.
 
 
